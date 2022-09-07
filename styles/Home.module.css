@@ -1,0 +1,11 @@
+.container {
+  padding: 0 2rem;
+}
+
+.fontLight {
+  font-weight: 300;
+}
+
+.fontLarge {
+  font-size: 4rem;
+}

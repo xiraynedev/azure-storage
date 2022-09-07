@@ -1,0 +1,4 @@
+FROM node:18.4.0-alpine
+WORKDIR /usr/src/app
+COPY package*.json .
+CMD npm i --prefer-offline && npm run dev
