@@ -9,4 +9,4 @@
 
 # azure-storage
 
-This project is a Next.js and TypeScript microservice that retrieves videos from Azure Storage with metadata received from the Video Streaming microservice.
+This application is a Next.js and TypeScript microservice that retrieves videos from Azure Storage with metadata received from the Video Streaming microservice.
